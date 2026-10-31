@@ -14,7 +14,7 @@ A command-line Python utility engineered to parse NCBI pairwise BLAST reports (F
 Reference gene sequences were obtained from *H. pylori* strain MT5135 (*alpA*, *alpB*, *babA*, *sabA*) and strain 26695 (*hopZ*) from NCBI databases. All assembly contigs were searched using BLAST with stringent thresholds of $\ge 95\%$ coverage and $\ge 85\%$ sequence identity.
 
 ### Genomic Discovery Impact
-This automated sequence parsing pipeline facilitated the screening, verification, and assembly of **76 novel non-redundant alleles** deposited into the NCBI GenBank repository[cite: 9]:
+This automated sequence parsing pipeline facilitated the screening, verification, and assembly of **76 novel non-redundant alleles** deposited into the NCBI GenBank repository:
 * **`alpA`**: 30 novel alleles identified
 * **`alpB`**: 27 novel alleles identified
 * **`hopZ`**: 28 novel alleles identified
