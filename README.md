@@ -10,19 +10,20 @@ An integrated computational biology repository containing reproducible analytica
 
 ## Table of Contents
 - [Project Architecture](#project-architecture)
-- [Module 1: Transcriptomics & Differential Expression](#module-1-transcriptomics--differential-expression-01_transcriptomics_microarray)
-  - [Overview & Scientific Background](#overview--scientific-background)
+- [Module 1: Transcriptomics & Differential Expression](#module-1-transcriptomics--differential-expression)
+  - [Overview & Scientific Background](#module-1-overview--scientific-background)
   - [Analytical Workflow](#analytical-workflow)
   - [Candidate Biomarker Discovery](#candidate-biomarker-discovery)
   - [Visualizations](#visualizations)
-  - [Usage](#usage-transcriptomics)
-- [Module 2: BLAST Sequence & Variant Parsing](#module-2-blast-sequence--variant-parsing-02_sequence_variant_parsing)
-  - [Overview & Scientific Background](#overview--scientific-background-1)
+  - [Usage: Transcriptomics](#usage-transcriptomics)
+- [Module 2: BLAST Sequence & Variant Parsing](#module-2-blast-sequence--variant-parsing)
+  - [Overview & Scientific Background](#module-2-overview--scientific-background)
   - [Key Features](#key-features)
   - [Usage & Real Benchmark](#usage--real-benchmark)
 - [Environment Setup & Installation](#environment-setup--installation)
 - [Conference Citations](#conference-citations)
 - [License & Contact](#license--contact)
+
 <img src="01_transcriptomics_microarray/results/volcano_plot_GSE79973.png" width="850">
 
 <img src="01_transcriptomics_microarray/results/heatmap_top_DEGs_GSE79973.png" width="850">
