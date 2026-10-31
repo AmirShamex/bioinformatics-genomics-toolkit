@@ -12,6 +12,7 @@ An automated R pipeline for raw Affymetrix microarray preprocessing, Robust Mult
 This pipeline was engineered to identify diagnostic and prognostic biomarker signatures in gastric adenocarcinoma from the NCBI Gene Expression Omnibus (GEO) dataset **GSE79973**. The cohort consists of $N = 20$ arrays representing **10 matched patient pairs** of primary gastric adenocarcinoma (`C`) versus adjacent non-cancerous mucosa (`N`).
 
 Analytical findings derived from this pipeline were selected for an **Oral Presentation** at the *Second International Congress of Cancer Genomics (CGC2024)* (Certificate No: 40321102).
+
 <img src="results/volcano_plot_GSE79973.png" width="800">
 ---
 
