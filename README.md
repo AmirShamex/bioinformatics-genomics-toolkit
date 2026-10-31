@@ -5,8 +5,7 @@
 [![R](https://img.shields.io/badge/R-%3E%3D4.2.0-276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
 [![Bioconductor](https://img.shields.io/badge/Bioconductor-3.18-green.svg)](https://bioconductor.org/)
 
-An integrated computational biology repository containing reproducible analytical pipelines for **transcriptomic microarray normalization and paired differential expression analysis**, alongside **high-throughput BLAST pairwise alignment parsing for microbial variant discovery**[cite: 2, 8].
-
+An integrated computational biology repository containing reproducible analytical pipelines for **transcriptomic microarray normalization and paired differential expression analysis**, alongside **high-throughput BLAST pairwise alignment parsing for microbial variant discovery**
 ---
 
 ## Table of Contents
