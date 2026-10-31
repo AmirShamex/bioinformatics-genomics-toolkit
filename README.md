@@ -237,5 +237,5 @@ If utilizing or adapting these analytical pipelines, please cite the correspondi
 * **Author:** Seyed Amirhossein Shamekhi
 * **Affiliation:** Department of Microbiology and Microbial Biotechnology, Shahid Beheshti University, Tehran, Iran
 * **GitHub:** [@AmirShamex](https://github.com/AmirShamex)
-* **LinkedIn:** [amirhossein-shamekhi](https://linkedin.com/in/amirshamekhi)
-* **Email:** [amirhossein.shamekhi@gmail.com](mailto:amirhshamekhi@gmail.com)
+* **LinkedIn:** [Amirhossein Shamekhi](https://linkedin.com/in/amirshamekhi)
+* **Email:** [amirhshamekhi@gmail.com](mailto:amirhshamekhi@gmail.com)
