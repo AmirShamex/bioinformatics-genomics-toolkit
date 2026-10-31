@@ -23,7 +23,7 @@ An integrated computational biology repository containing reproducible analytica
 - [Environment Setup & Installation](#environment-setup--installation)
 - [Conference Citations](#conference-citations)
 - [License & Contact](#license--contact)
-
+<img src="01_transcriptomics_microarray/results/volcano_plot_GSE79973.png" width="850">
 ---
 
 ## Project Architecture
