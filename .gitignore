@@ -22,6 +22,12 @@ env/
 *.sam
 *.gz
 
+# Ignore result data tables but keep generated figures
+results/*
+!results/.gitkeep
+!results/*.png
+!results/*.jpg
+
 # Keep directories intact
 !01_transcriptomics_microarray/data/.gitkeep
 !01_transcriptomics_microarray/results/.gitkeep
