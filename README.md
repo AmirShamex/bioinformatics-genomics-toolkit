@@ -9,20 +9,35 @@ An integrated computational biology repository containing reproducible analytica
 ---
 
 ## Table of Contents
-- [Project Architecture](#project-architecture)
-- [Module 1: Transcriptomics & Differential Expression](#module-1-transcriptomics--differential-expression)
-  - [Overview & Scientific Background](#module-1-overview--scientific-background)
-  - [Analytical Workflow](#analytical-workflow)
-  - [Candidate Biomarker Discovery](#candidate-biomarker-discovery)
-  - [Visualizations](#visualizations)
-  - [Usage: Transcriptomics](#usage-transcriptomics)
-- [Module 2: BLAST Sequence & Variant Parsing](#module-2-blast-sequence--variant-parsing)
-  - [Overview & Scientific Background](#module-2-overview--scientific-background)
-  - [Key Features](#key-features)
-  - [Usage & Real Benchmark](#usage--real-benchmark)
-- [Environment Setup & Installation](#environment-setup--installation)
-- [Conference Citations](#conference-citations)
-- [License & Contact](#license--contact)
+## <a id="project-architecture"></a>Project Architecture
+...
+
+## <a id="module-1-transcriptomics--differential-expression"></a>Module 1: Transcriptomics & Differential Expression (`01_transcriptomics_microarray`)
+
+### <a id="module-1-overview--scientific-background"></a>Overview & Scientific Background
+...
+
+### <a id="analytical-workflow"></a>Analytical Workflow
+...
+
+### <a id="candidate-biomarker-discovery"></a>Candidate Biomarker Discovery
+...
+
+### <a id="visualizations"></a>Visualizations
+...
+
+### <a id="usage-transcriptomics"></a>Usage: Transcriptomics
+
+
+## <a id="module-2-blast-sequence--variant-parsing"></a>Module 2: BLAST Sequence & Variant Parsing (`02_sequence_variant_parsing`)
+
+### <a id="module-2-overview--scientific-background"></a>Overview & Scientific Background
+...
+
+### <a id="key-features"></a>Key Features
+...
+
+### <a id="usage--real-benchmark"></a>Usage & Real Benchmark
 
 <img src="01_transcriptomics_microarray/results/volcano_plot_GSE79973.png" width="850">
 
