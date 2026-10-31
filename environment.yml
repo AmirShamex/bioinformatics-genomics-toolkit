@@ -1,0 +1,15 @@
+name: compbio-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - biopython
+  - pandas
+  - numpy
+  - r-base>=4.2.0
+  - bioconductor-affy
+  - bioconductor-geoquery
+  - r-tidyverse
