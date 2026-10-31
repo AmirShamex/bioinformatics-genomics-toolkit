@@ -1,0 +1,32 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# R session data & temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Heavy Genomic & Microarray Raw Archives
+*.tar
+*.tar.gz
+*.cel
+*.CEL
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.gz
+
+# Keep directories intact
+!01_transcriptomics_microarray/data/.gitkeep
+!01_transcriptomics_microarray/results/.gitkeep
+!02_sequence_variant_parsing/results/.gitkeep
+
+# OS-specific files
+.DS_Store
+Thumbs.db
